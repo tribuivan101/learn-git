@@ -26,3 +26,7 @@ gist là gì?
 
 Kinh nghiệm của các dự án thực tế
 Một số extension trên Visual Code hỗ trợ cho Git
+
+Ref
+- https://www.githubstatus.com/
+- https://docs.github.com/en
